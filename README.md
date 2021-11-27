@@ -19,7 +19,7 @@ Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
 
 ### Praktik pada CPT
 1. Membuat topologi di CPT. 
-    ![topologi_cpt](img/topologi_cpt.png)
+    ![topologi_cpt](img/topologi_cpt.PNG)
 2. Mengatur konfigurasi IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
     - Pada Foosha
         1. Mengarah Cloud <br>
@@ -75,29 +75,29 @@ Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
         2. Mengarah Elena <br>
         10.21.4.1 subnet 255.255.252.0
     - Pada Jipangu
-        ![cpt_jipangu](img/cpt_jipangu.png)
+        ![cpt_jipangu](img/cpt_jipangu.PNG)
     - Pada Courtyard
-        ![cpt_courtyard](img/cpt_courtyard.png)
+        ![cpt_courtyard](img/cpt_courtyard.PNG)
     - Pada Calmbelt
-        ![cpt_calmbelt](img/cpt_calmbelt.png)
+        ![cpt_calmbelt](img/cpt_calmbelt.PNG)
     - Pada Cipher
-        ![cpt_cipher](img/cpt_cipher.png)
+        ![cpt_cipher](img/cpt_cipher.PNG)
     - Pada Blueno
-        ![cpt_blueno](img/cpt_blueno.png)
+        ![cpt_blueno](img/cpt_blueno.PNG)
     - Pada Jabra
-        ![cpt_jabra](img/cpt_jabra.png)
+        ![cpt_jabra](img/cpt_jabra.PNG)
     - Pada Maingate
-        ![cpt_maingate](img/cpt_maingate.png)
+        ![cpt_maingate](img/cpt_maingate.PNG)
     - Pada Jorge
-        ![cpt_jorge](img/cpt_jorge.png)
+        ![cpt_jorge](img/cpt_jorge.PNG)
     - Pada Enieslobby
-        ![cpt_enieslobby](img/cpt_enieslobby.png)
+        ![cpt_enieslobby](img/cpt_enieslobby.PNG)
     - Pada Elena
-        ![cpt_elena](img/cpt_elena.png)
+        ![cpt_elena](img/cpt_elena.PNG)
     - Pada Server Doriki
-        ![cpt_doriki](img/cpt_doriki.png)
+        ![cpt_doriki](img/cpt_doriki.PNG)
     - Pada Server Fukurou
-        ![cpt_fukurou](img/cpt_fukurou.png)
+        ![cpt_fukurou](img/cpt_fukurou.PNG)
 3. Mengatur routing pada setiap router
     - Pada Foosha
         - 10.21.1.0/24 via 10.21.0.6
