@@ -32,6 +32,6 @@ Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
 ![CIDR](https://github.com/DidoFayed/jarkom-modul-4-C14-2021/blob/main/CIDR/CIDR_5.png)
 ![CIDR](https://github.com/DidoFayed/jarkom-modul-4-C14-2021/blob/main/CIDR/CIDR_6.png)
 ![CIDR](https://github.com/DidoFayed/jarkom-modul-4-C14-2021/blob/main/CIDR/CIDR_7.png)
-2. Dari proses penggabungan yang telah dilakukan, didapatkan sebuah subnet besar yang memiliki NID 21.10.0.0 dengan netmask /16.
+2. Dari proses penggabungan yang telah dilakukan, didapatkan sebuah subnet besar yang memiliki NID 10.21.0.0 dengan netmask /16.
 3. Selanjutnya menghitung pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan. 
 <img width="754" alt="Screen Shot 2021-11-27 at 15 52 35" src="https://user-images.githubusercontent.com/80528848/143676294-5b1c70f1-ca3f-4293-92f2-fe76b1fe7e73.png">
