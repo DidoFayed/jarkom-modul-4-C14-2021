@@ -1,4 +1,4 @@
-# jarkom-modul-4-C14-2021
+# Jarkom-Modul-4-C14-2021
 
 Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
 ### Nama Anggota Kelompok:
@@ -13,3 +13,4 @@ Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
 2. Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lmelakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan.
 - <img width="282" alt="Screen Shot 2021-11-27 at 16 29 12" src="https://user-images.githubusercontent.com/80528848/143675869-c9213a1c-df96-4e57-afe3-0dc91fd8e664.png">
 - Berdasarkan total IP dan netmask yang dibutuhkan, maka dapat menggunakan netmask /19 untuk memberikan pengalamatan IP pada subnet.
+3. Subnet besar yang dibentuk memiliki NID 10.21.0.0 dengan netmask /19. Selanjutnya menghitung pembagian IP berdasarkan NID dan netmask tersebut menggunakan pohon seperti gambar berikut.
