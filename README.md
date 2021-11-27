@@ -8,3 +8,7 @@ Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
 
 ## VLSM
 ### Subnetting
+1. Melakukan subnetting pada topologi yang diberikan. Sehingga terbentuklah 13 subnet di dalam topologi seperti pada gambar berikut. 
+![CIDR](https://github.com/DidoFayed/jarkom-modul-4-C14-2021/blob/main/CIDR/CIDR_1.png)
+2. Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lmelakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan.
+- <img width="282" alt="Screen Shot 2021-11-27 at 16 29 12" src="https://user-images.githubusercontent.com/80528848/143675869-c9213a1c-df96-4e57-afe3-0dc91fd8e664.png">
