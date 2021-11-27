@@ -143,4 +143,32 @@ Praktikum Jaringan Komputer Modul 4 - Subnetting & Routing
 ![CIDR](img/CIDR_7.png)
 2. Dari proses penggabungan yang telah dilakukan, didapatkan sebuah subnet besar yang memiliki NID 10.21.0.0 dengan netmask /16.
 3. Selanjutnya menghitung pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan. 
-<img width="754" alt="Screen Shot 2021-11-27 at 15 52 35" src="https://user-images.githubusercontent.com/80528848/143676294-5b1c70f1-ca3f-4293-92f2-fe76b1fe7e73.png">
+    <img width="754" alt="Screen Shot 2021-11-27 at 15 52 35" src="https://user-images.githubusercontent.com/80528848/143676294-5b1c70f1-ca3f-4293-92f2-fe76b1fe7e73.png">
+    | Subnet      | Parameter   | Value              |
+    | ----------- | ----------- | ------------------ |
+    | A1          | NID         | 10.21.128.0/22     |
+    | ^           | Netmask     | 255.255.252.0      |     
+    | A2          | NID         | 10.21.132.0/24     |      
+    | ^           | Netmask     | 255.255.255.0      |     
+    | A3          | NID         | 10.21.144.0/20     |      
+    | ^           | Netmask     | 255.255.240.0      |     
+    | A4          | NID         | 10.21.146.0/23     |      
+    | ^           | Netmask     | 255.255.254.0      |     
+    | A5          | NID         | 10.21.148.0/22     |      
+    | ^           | Netmask     | 255.255.252.0      |     
+    | A6          | NID         | 10.21.136.0/30     |      
+    | ^           | Netmask     | 255.255.255.252    |       
+    | A7          | NID         | 10.21.160.0/30     |      
+    | ^           | Netmask     | 255.255.255.252    |       
+    | A8          | NID         | 10.21.64.0/30      |     
+    | ^           | Netmask     | 255.255.255.252    |       
+    | A9          | NID         | 10.21.32.0/22      |     
+    | ^           | Netmask     | 255.255.252.0      |     
+    | A10         | NID         | 10.21.16.0/30      |     
+    | ^           | Netmask     | 255.255.255.252    |       
+    | A11         | NID         | 10.21.8.0/21       |    
+    | ^           | Netmask     | 255.255.248.0      |     
+    | A12         | NID         | 10.21.0.0/25       |    
+    | ^           | Netmask     | 255.255.255.128    |       
+    | A13         | NID         | 10.21.192.0/22     |      
+    | ^           | Netmask     | 255.255.252.0      |     
